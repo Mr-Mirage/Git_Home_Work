@@ -3,3 +3,5 @@
 git checkout название файла
 
 2. Командой git restore --staged имя файла, возвращаем файл после git add
+
+3. git commit --amend отменяет последний commit
